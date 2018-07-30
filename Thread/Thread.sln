@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thread", "Thread\Thread\Thread.vcxproj", "{56DF411B-1E62-451B-995A-B8AE611CA496}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TcpIp", "TcpIp\TcpIp.vcxproj", "{DB19138E-2733-4AEF-8807-97467D984D6A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thread", "Thread\Thread.vcxproj", "{56DF411B-1E62-451B-995A-B8AE611CA496}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,19 +21,11 @@ Global
 		{56DF411B-1E62-451B-995A-B8AE611CA496}.Release|x64.Build.0 = Release|x64
 		{56DF411B-1E62-451B-995A-B8AE611CA496}.Release|x86.ActiveCfg = Release|Win32
 		{56DF411B-1E62-451B-995A-B8AE611CA496}.Release|x86.Build.0 = Release|Win32
-		{DB19138E-2733-4AEF-8807-97467D984D6A}.Debug|x64.ActiveCfg = Debug|x64
-		{DB19138E-2733-4AEF-8807-97467D984D6A}.Debug|x64.Build.0 = Debug|x64
-		{DB19138E-2733-4AEF-8807-97467D984D6A}.Debug|x86.ActiveCfg = Debug|Win32
-		{DB19138E-2733-4AEF-8807-97467D984D6A}.Debug|x86.Build.0 = Debug|Win32
-		{DB19138E-2733-4AEF-8807-97467D984D6A}.Release|x64.ActiveCfg = Release|x64
-		{DB19138E-2733-4AEF-8807-97467D984D6A}.Release|x64.Build.0 = Release|x64
-		{DB19138E-2733-4AEF-8807-97467D984D6A}.Release|x86.ActiveCfg = Release|Win32
-		{DB19138E-2733-4AEF-8807-97467D984D6A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C389A4B9-518C-4989-8BFD-7815A737F5D3}
+		SolutionGuid = {20D1A1CC-B7E7-40CC-956F-8494D47FB419}
 	EndGlobalSection
 EndGlobal
